@@ -19,9 +19,7 @@ int keygen()
 {
 	int i, n, sum;
 	char pass[12];
-	char letter;
-	char capLetter;
-
+	
 	i = 0;
 	n = 0;
 	sum = 0;
